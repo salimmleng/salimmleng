@@ -19,8 +19,6 @@ Skills: REACT / JS / HTML / CSS/ Bootstrap / Django
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=salimmleng&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/salimmleng/contributions?format=svg&private=false)  
-
 ![GitHub metrics](https://metrics.lecoq.io/salimmleng)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=salimmleng)  
