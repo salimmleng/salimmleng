@@ -28,6 +28,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salimmleng&show_icons=true&locale=en&layout=compact" alt="salimmleng" /></p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=salimmleng&show_icons=true)  
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salimmleng&" alt="salimmleng" /></p>
 
 
