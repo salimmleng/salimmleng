@@ -10,6 +10,7 @@ I am a skilled software developer specializing in backend development. Proficien
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=salimmleng&theme=dark&hide)   
 
 ## Where to find me:
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/salimmleng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-hossaian/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/salim.hossain.54922/)
 
