@@ -1,5 +1,5 @@
-![I am GitHub Readme Generator's creator](https://github.com/salimmleng/smart_care/blob/main/salim2.png?raw=true)
-## Glad to see you here!
+![I am GitHub Readme Generator's creator](https://github.com/salimmleng/smart_care/blob/main/salim1.png?raw=true)
+## More about me!
 I am a skilled software developer specializing in backend development. Proficient in C/C++, Python, HTML, CSS, JavaScript, Bootstrap, Django, and Django REST Framework, I have a strong foundation in backend architecture and a solid understanding of data structures and algorithms, enabling me to create efficient and scalable server-side solutions.
 
 ## Things I code with
