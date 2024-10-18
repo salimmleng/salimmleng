@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/salimmleng/smart_care/blob/main/salim.png?raw=true)
+![I am GitHub Readme Generator's creator](https://github.com/salimmleng/smart_care/blob/main/salim2.png?raw=true)
 
 
 - 🔭 I’m currently working on [Food delivery app](https://salimmleng.github.io/Food-delivery/)
