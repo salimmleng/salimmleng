@@ -1,6 +1,4 @@
-<h1>Hi 👋, I'm Salim</h1>
-<h3>A passionate backend developer from Bangladesh</h3>
-
+(https://github.com/salimmleng/smart_care/blob/main/Kal%20Patel.png?raw=true)
 
 - 🔭 I’m currently working on [Food delivery app](https://salimmleng.github.io/Food-delivery/)
 
