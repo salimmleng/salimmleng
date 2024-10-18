@@ -23,7 +23,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=salimmleng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Where to find me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/salim.hossain.54922/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salim-hossaian/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salim-hossaian/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/salim.hossain.54922/)
 
 
 
