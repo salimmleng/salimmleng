@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/salimmleng](https://github.com/salimmleng)
 
-- 💬 Ask me about **Django,Javascript,Django Rest Framework,Bootstrap**
+- 💬 Ask me about **Django,Django Rest Framework,Javascript,Python**
 
 - 📫 How to reach me **salimmiah0785@gmail.com**
 
